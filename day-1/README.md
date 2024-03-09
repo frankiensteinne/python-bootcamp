@@ -13,4 +13,3 @@
 
 ## Conclusion
 - This is the first of the 100 days and 100 major projects I will be doing with Python. I am excited to grow as a programmer and hope to build a daily programming habit.
-Summarize the key takeaways from the project and how they align with your learning goals.
