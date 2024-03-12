@@ -1,26 +1,16 @@
 # Hangman
 
 ## Project Introduction 
-- What is the main objective of the current project? 
-- What problem does the project aim to solve or what goal does it seek to achieve? 
-- What technologies, tools, or concepts are involved in the project?
+- The Hangman project is a culmination of the fundamentals of Python. From using lists, debugging, and use of control operators.
 
 ## Skills Demonstrated
-- What technical skills have you employed or improved upon during this project?
-- How does this project showcase your proficiency in certain programming languages, frameworks, or methodologies?
-- Are there any soft skills, such as problem-solving or collaboration, that the project has allowed you to develop?
+- For this project, Angela broke down the process into parts. Because of these parts, I am able to see the difference of her code to mine as well as my thinking process.
 
 ## Challenges Faced
-- What were the most challenging aspects of the project, and how did you overcome them?
-- Did you encounter any unexpected hurdles that required creative solutions?
-- How did you manage your time and resources to tackle these challenges effectively?
+- I find indenting difficult. There were times when I can't figure out my error only to realize after a while that i have indented my code wrong.
 
 ## Learning and Growth 
-- How has this project contributed to your personal or professional growth
--  What new insights or knowledge have you gained through working on this assignment?
-- In what ways do you plan to apply the lessons learned from this project in future endeavors?
+- I By breaking down the project into phases, I am able to see how my thinking process works. By understanding it, I can identify my gaps and work on them.
 
 ## Conclusion
-- Summarize the key takeaways from the project and how they align with your learning goals.
-- Express your sense of accomplishment and how completing this project has furthered your skills and expertise.
-- Conclude with a forward-looking statement about how you plan to leverage the experience gained from this project in your future work.
+- This was a fun project. I see myself doing a redux of this game when to include game states and difficulties.
