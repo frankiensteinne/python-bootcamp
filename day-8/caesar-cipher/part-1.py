@@ -7,6 +7,7 @@ shift = int(input("Type the shift number:\n"))
 #TODO-1: Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs.
 
 def encrypt(text, shift):
+    ## Creates an Empty String to store the message
     secret_message = ""
     #TODO-2: Inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text.  
     #e.g. 
@@ -17,10 +18,16 @@ def encrypt(text, shift):
 
     ##HINT: How do you get the index of an item in a list:
     #https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list
+
+    ## Use for loop to run through all the letters in the text
     for letter in text:
+        #get letter's starting position
         position = alphabet.index(letter)
+        #letter's new position after shift
         new_position = position + shift
+        #new letter after shift
         code_letter = alphabet[new_position]
+        #add new letter to secret message
         secret_message += code_letter
     print(f"The encoded text is {secret_message}")
 
